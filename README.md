@@ -37,15 +37,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   9 hrs 1 min     ███████████████░░░░░░░░░░   59.91 % 
-JSX          3 hrs 35 mins   ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-SCSS         2 hrs 25 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-```
-<!--END_SECTION:waka-->
-
 
 
 <!-- stats -->
