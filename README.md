@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 
 <!-- stats -->
 
-![shiyutim github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shiyutim)
+<p align="center">![shiyutim github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shiyutim)</p>
 
 
