@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- stats -->
 
-![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi)
+![shiyutim github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi)
 
 <details>
 <summary>:bar_chart: Recent Anilist Activity</summary>
