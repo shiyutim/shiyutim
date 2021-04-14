@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://stanleylim.me/">ShiyuTim</a></h2>
+<h2>Hey 👋, I'm ShiyuTim</h2>
 
 <!--
 **shiyutim/shiyutim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
