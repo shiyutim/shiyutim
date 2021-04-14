@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 
 -->
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
 <!-- stats -->
 
 ![shiyutim github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shiyutim)
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 
