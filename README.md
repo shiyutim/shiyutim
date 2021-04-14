@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
+
+**Languages and Tools:**  
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" /></code>
@@ -37,12 +39,3 @@ Here are some ideas to get you started:
 ![shiyutim github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shiyutim)
 
 
-
-
-
-<!-- use tools -->
-
-<h2>🚀 Some Tools I Use</h2>
-<p align="left">
-
-</p>
